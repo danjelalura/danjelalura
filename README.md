@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my bachelor's thesis. 
+- 🔭 I’m currently working on my bachelor's thesis: "Deep Learning Enabled Emotion Classification and Sentiment Analysis on News Headlines" 
 - 🌱 I’m currently learning how to teach machines. 
 - 👯 I’m looking to collaborate on initiatives that improve diversity and inclusion in tech. 
 - 🤔 I’m looking for help with deep-learning-powered NLP. 
