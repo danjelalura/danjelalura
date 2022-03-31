@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I won a singing competition in sixth grade. 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danjelalura&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danjelalura&count_private=false&show_icons=true&theme=radical&include_all_commits=true" />
 </div>
