@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning how to teach machines to understand human language. 
+- 💻 I’m Clojure developer. 
 - 📫 How to reach me: danjelaluraa@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I won a singing competition in sixth grade. 
